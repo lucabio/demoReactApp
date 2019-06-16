@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lucabio/demoReactApp.git/static/css/main.eced0934.chunk.css",
+    "main.js": "/lucabio/demoReactApp.git/static/js/main.b978f1f1.chunk.js",
+    "main.js.map": "/lucabio/demoReactApp.git/static/js/main.b978f1f1.chunk.js.map",
+    "runtime~main.js": "/lucabio/demoReactApp.git/static/js/runtime~main.8cff38e0.js",
+    "runtime~main.js.map": "/lucabio/demoReactApp.git/static/js/runtime~main.8cff38e0.js.map",
+    "static/js/2.bdafdfdf.chunk.js": "/lucabio/demoReactApp.git/static/js/2.bdafdfdf.chunk.js",
+    "static/js/2.bdafdfdf.chunk.js.map": "/lucabio/demoReactApp.git/static/js/2.bdafdfdf.chunk.js.map",
+    "index.html": "/lucabio/demoReactApp.git/index.html",
+    "precache-manifest.517322cba3615e6ef7e2e592f6f0e94f.js": "/lucabio/demoReactApp.git/precache-manifest.517322cba3615e6ef7e2e592f6f0e94f.js",
+    "service-worker.js": "/lucabio/demoReactApp.git/service-worker.js",
+    "static/css/main.eced0934.chunk.css.map": "/lucabio/demoReactApp.git/static/css/main.eced0934.chunk.css.map"
+  }
+}
