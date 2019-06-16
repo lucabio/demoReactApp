@@ -19,6 +19,19 @@
   color: white;
 }
 
+.red{
+  color : red;
+}
+
+.green{
+  color : green;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+
 .App-link {
   color: #61dafb;
 }
